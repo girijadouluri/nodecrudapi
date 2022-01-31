@@ -1,0 +1,27 @@
+{
+  "name": "nodecrudapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girijadouluri/nodecrudapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girijadouluri/nodecrudapi/issues"
+  },
+  "homepage": "https://github.com/girijadouluri/nodecrudapi#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
